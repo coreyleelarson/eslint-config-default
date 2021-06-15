@@ -1,6 +1,6 @@
 {
   "name": "@coreyleelarson/eslint-config-default",
-  "version": "1.3.3",
+  "version": "1.3.4",
   "license": "MIT",
   "author": "Corey Larson <coreyleelarson@gmail.com>",
   "description": "Shareable eslint config for all of my side-projects.",
